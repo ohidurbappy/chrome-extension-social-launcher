@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "ORB Launcher",
     "description": "Quickly launch Social media of Mr.ORB",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icons": {
         "128": "icon.png"
     },
@@ -15,5 +15,5 @@
         "default_popup": "popup.html",
         "default_title": "ORB Launcher"
     },
-    "permissions": ["activeTab"]
+    "permissions": []
 }
